@@ -226,4 +226,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Fixed broken external link
+
+
+Update: Settings links
